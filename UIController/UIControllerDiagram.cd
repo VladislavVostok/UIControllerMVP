@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="UIController.Presenters.StudentPresenter">
+    <Position X="6.75" Y="8" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AkAAAACAAAACACAAAAAAABgAAAIAAACAAQAABABAAAA=</HashCode>
+      <FileName>Presenters\StudentPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIController.Models.StudentModel">
+    <Position X="11.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAQAAAAEAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\StudentModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIController._Repositories.StudentRepository">
+    <Position X="6.5" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAgAAAAAAAAAAAEAAAACAgAAAAAAAAA=</HashCode>
+      <FileName>_Repositories\StudentRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UIController._Repositories.BaseRepositories">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>_Repositories\BaseRepositories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIController.Views.StudentView">
+    <Position X="2.5" Y="11.25" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gICAAAAEACYIADBgAECAgBQCFAhIBAIJCQABIYADBGI=</HashCode>
+      <FileName>Views\StudentView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UIController.Program">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="UIController.Views.IStudentView">
+    <Position X="0.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAIAABgAEAAgAQAEAAMBAAAAQAAIAACAAA=</HashCode>
+      <FileName>Views\IStudentView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="UIController.Models.IStudentRepository">
+    <Position X="4" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAgAAAAAAAAAAAEAAAACAgAAAAAAAAA=</HashCode>
+      <FileName>Models\IStudentRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
